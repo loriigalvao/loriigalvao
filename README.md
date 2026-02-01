@@ -38,5 +38,6 @@ Estou em constante aprendizado, sempre buscando evoluir tanto tecnicamente quant
 [![Git](https://custom-icon-badges.demolab.com/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Postman](https://custom-icon-badges.demolab.com/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Oracle EBS](https://custom-icon-badges.demolab.com/badge/-Oracle%20EBS-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/applications/ebusiness/)
 
 <br/>
