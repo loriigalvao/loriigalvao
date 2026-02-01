@@ -14,7 +14,7 @@ Estou em constante aprendizado, sempre buscando evoluir tanto tecnicamente quant
 Vamos nos conectar?🤝 
 
 
-### 👨‍💻 Tecnologias
+### 👩‍💻 Tecnologias
 💻 **`Linguagens & Desenvolvimento`**
 
 [![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
