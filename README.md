@@ -13,7 +13,6 @@ Estou em constante aprendizado, sempre buscando evoluir tanto tecnicamente quant
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorieny-galvão0001/)  
 Vamos nos conectar?🤝 
 
-<br/>
 
 ### 👨‍💻 Tecnologias
 💻 **`Linguagens & Desenvolvimento`**
